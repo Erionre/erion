@@ -73,6 +73,22 @@
         if (url) openInNewTab(url);
       });
 
+      // Read now button
+      const readBtn = document.createElement('button');
+      readBtn.type = 'button';
+      readBtn.textContent = 'Read now';
+      if (b.read_url) {
+        readBtn.addEventListener('click', () => openInNewTab(b.read_url));
+      } else if (b.preview_url) {
+        readBtn.textContent = 'Preview';
+        readBtn.addEventListener('click', () => openInNewTab(b.preview_url));
+      } else {
+        readBtn.disabled = true;
+        readBtn.title = 'No read/preview available';
+        readBtn.style.opacity = '0.6';
+        readBtn.style.cursor = 'not-allowed';
+      }
+
       // Free copy search button (Project Gutenberg)
       const freeBtn = document.createElement('button');
       freeBtn.type = 'button';
@@ -99,6 +115,7 @@
 
       buttons.appendChild(detailsBtn);
       buttons.appendChild(freeBtn);
+      buttons.appendChild(readBtn);
       buttons.appendChild(olBtn);
 
       meta.appendChild(title);

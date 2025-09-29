@@ -22,6 +22,20 @@ def _parse_google_book(item: Dict[str, object], genre: str) -> Book:
         except Exception:
             return None
 
+    access_info = item.get("accessInfo", {}) if isinstance(item, dict) else {}
+    epub = access_info.get("epub", {}) if isinstance(access_info, dict) else {}
+    pdf = access_info.get("pdf", {}) if isinstance(access_info, dict) else {}
+    web_reader_link = access_info.get("webReaderLink") if isinstance(access_info, dict) else None
+
+    preview_url = volume_info.get("previewLink") if isinstance(volume_info, dict) else None
+    read_url = None
+    if isinstance(epub, dict) and epub.get("isAvailable") and epub.get("downloadLink"):
+        read_url = epub.get("downloadLink")
+    elif isinstance(pdf, dict) and pdf.get("isAvailable") and pdf.get("downloadLink"):
+        read_url = pdf.get("downloadLink")
+    elif web_reader_link:
+        read_url = web_reader_link
+
     return Book(
         source="google",
         source_id=str(item.get("id")),
@@ -36,6 +50,8 @@ def _parse_google_book(item: Dict[str, object], genre: str) -> Book:
         isbn_13=id_map.get("ISBN_13"),
         canonical_url=volume_info.get("infoLink"),
         thumbnail=(volume_info.get("imageLinks") or {}).get("thumbnail"),
+        preview_url=preview_url,
+        read_url=read_url,
     )
 
 

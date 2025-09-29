@@ -38,6 +38,11 @@ def _parse_open_library_work(work: Dict[str, object], subject: str) -> Book:
     if isinstance(cover_id, int):
         thumbnail = f"https://covers.openlibrary.org/b/id/{cover_id}-M.jpg"
 
+    read_url = None
+    # Open Library often provides readable editions; link to work page for reading/borrowing.
+    if key:
+        read_url = f"https://openlibrary.org/{key}"
+
     return Book(
         source="openlibrary",
         source_id=work_id,
@@ -49,6 +54,8 @@ def _parse_open_library_work(work: Dict[str, object], subject: str) -> Book:
         edition_count=edition_count,
         canonical_url=f"https://openlibrary.org/{key}" if key else None,
         thumbnail=thumbnail,
+        preview_url=f"https://openlibrary.org/{key}" if key else None,
+        read_url=read_url,
     )
 
 

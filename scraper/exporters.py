@@ -30,6 +30,8 @@ def export_csv(books: Iterable[Book], path: str) -> None:
         "source_id",
         "canonical_url",
         "thumbnail",
+        "preview_url",
+        "read_url",
         "popularity_score",
     ]
     with open(path, "w", encoding="utf-8", newline="") as f:

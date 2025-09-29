@@ -18,6 +18,8 @@ class Book:
     isbn_13: Optional[str] = None
     canonical_url: Optional[str] = None
     thumbnail: Optional[str] = None
+    preview_url: Optional[str] = None
+    read_url: Optional[str] = None
     popularity_score: Optional[float] = None
 
     def to_dict(self) -> Dict[str, object]:
@@ -36,6 +38,8 @@ class Book:
             "isbn_13": self.isbn_13,
             "canonical_url": self.canonical_url,
             "thumbnail": self.thumbnail,
+            "preview_url": self.preview_url,
+            "read_url": self.read_url,
             "popularity_score": self.popularity_score,
         }
 
