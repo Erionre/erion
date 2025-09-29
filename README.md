@@ -42,4 +42,23 @@ Environment variables:
 ### Notes
 - This project uses public APIs and honors their usage terms. For high-volume or commercial use, obtain proper API keys and review each provider's terms.
 - Popularity ranking is a heuristic combining available metrics; it is not an official list.
+
+### View the Web UI
+After generating `output/books.json`, you can open the static UI:
+
+1. Ensure the file exists:
+   ```bash
+   ls -l output/books.json
+   ```
+2. Serve the `/workspace` folder with any static server (examples):
+   ```bash
+   # Python 3
+   python3 -m http.server --directory /workspace 8080
+   # Or BusyBox
+   busybox httpd -f -p 8080 -h /workspace
+   ```
+3. Open the UI at `http://localhost:8080/web/`. The left sidebar includes a link to `Project Gutenberg` for legal free downloads. Each book card has:
+   - **Details**: opens the source page (Google/OpenLibrary)
+   - **Free copy**: searches Project Gutenberg by title/author
+   - **OpenLibrary**: opens Open Library work page when available
 # erion
