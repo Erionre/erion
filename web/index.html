@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Popular Books Explorer</title>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+    <div class="layout">
+        <aside class="sidebar">
+            <h2>Free books</h2>
+            <p>Find legally free ebooks:</p>
+            <a class="primary-link" href="https://www.gutenberg.org/" target="_blank" rel="noopener noreferrer">Project Gutenberg</a>
+            <div class="helper">
+                Tip: Use the "Free copy" button on each book to search by title/author.
+            </div>
+        </aside>
+        <main class="content">
+            <header class="toolbar">
+                <h1>Popular Fantasy, Romance, and Thriller Books</h1>
+                <div class="actions">
+                    <button id="reloadBtn" type="button">Reload books</button>
+                </div>
+            </header>
+
+            <section class="status" id="status"></section>
+            <section id="books" class="books"></section>
+        </main>
+    </div>
+
+    <script src="./app.js"></script>
+    <noscript>Please enable JavaScript to view the book list.</noscript>
+</body>
+<footer class="footer">
+    <div>Data from Google Books and Open Library. Free downloads via Project Gutenberg where available.</div>
+    <div class="note">Only public-domain or freely licensed books are downloadable for free.</div>
+    <div><a href="../README.md" target="_blank" rel="noopener">README</a></div>
+    <div class="spacer"></div>
+</footer>
+</html>

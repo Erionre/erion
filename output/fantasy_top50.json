@@ -1,0 +1,1156 @@
+[
+  {
+    "source": "openlibrary",
+    "source_id": "OL138052W",
+    "title": "Alice's Adventures in Wonderland",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1865,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 3546,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL138052W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10527843-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL138052W",
+    "read_url": "https://openlibrary.org/works/OL138052W",
+    "popularity_score": 354.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18417W",
+    "title": "The Wonderful Wizard of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1899,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 2052,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18417W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/552443-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18417W",
+    "read_url": "https://openlibrary.org/works/OL18417W",
+    "popularity_score": 205.20000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL24034W",
+    "title": "Treasure Island",
+    "authors": [
+      "Robert Louis Stevenson"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1880,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1984,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL24034W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13859660-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL24034W",
+    "read_url": "https://openlibrary.org/works/OL24034W",
+    "popularity_score": 198.4
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL20600W",
+    "title": "Gulliver's Travels",
+    "authors": [
+      "Jonathan Swift"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1726,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1809,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL20600W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12717083-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL20600W",
+    "read_url": "https://openlibrary.org/works/OL20600W",
+    "popularity_score": 180.9
+  },
+  {
+    "source": "google",
+    "source_id": "-4UgAAAAMAAJ",
+    "title": "The Wind in the Willows",
+    "authors": [
+      "Kenneth Grahame"
+    ],
+    "description": "Since its publication in 1908, Kenneth Grahame's The Wind in the Willows has enchanted readers, young and old. This new edition, sensitively abridged and exquisitely illustrated by Inga Moore, is sure to win over a new generation of fans. Here readers will meet the amiable Mole, his hearty friend the Water Rat, the genial Badger, and, of course, the irrepressible Mr. Toad, and enjoy some of the most memorable adventures in children's literature. Classic, yet accessible, and full of humor, this beautiful volume is the perfect addition to every family's bookshelf. Book jacket.",
+    "categories": [
+      "Juvenile Fiction",
+      "fantasy"
+    ],
+    "published_year": 1908,
+    "average_rating": 4,
+    "ratings_count": 3,
+    "edition_count": 1346,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://play.google.com/store/books/details?id=-4UgAAAAMAAJ&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=-4UgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "preview_url": "http://books.google.com/books?id=-4UgAAAAMAAJ&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=83&source=gbs_api",
+    "read_url": "http://books.google.com/books/download/The_Wind_in_the_Willows.pdf?id=-4UgAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3eqhnI-kSaMY0hD8WfD_iYUYf51g&source=gbs_api",
+    "popularity_score": 141.5282032302755
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1089297W",
+    "title": "The Prince",
+    "authors": [
+      "Niccolò Machiavelli"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1515,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1406,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1089297W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12726168-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL1089297W",
+    "read_url": "https://openlibrary.org/works/OL1089297W",
+    "popularity_score": 140.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL151406W",
+    "title": "Through the Looking-Glass",
+    "authors": [
+      "Lewis Carroll",
+      "Lewis Carroll",
+      "Lewis Lewis Carroll"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1865,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1378,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL151406W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/11272464-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL151406W",
+    "read_url": "https://openlibrary.org/works/OL151406W",
+    "popularity_score": 137.8
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL99499W",
+    "title": "Five Children and It",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1905,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 950,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL99499W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/28174-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL99499W",
+    "read_url": "https://openlibrary.org/works/OL99499W",
+    "popularity_score": 95.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL259010W",
+    "title": "A Midsummer Night's Dream",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1600,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 947,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL259010W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7205924-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL259010W",
+    "read_url": "https://openlibrary.org/works/OL259010W",
+    "popularity_score": 94.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262460W",
+    "title": "The Lost World",
+    "authors": [
+      "Arthur Conan Doyle"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1900,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 747,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262460W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8231444-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262460W",
+    "read_url": "https://openlibrary.org/works/OL262460W",
+    "popularity_score": 74.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18396W",
+    "title": "The Marvelous Land of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1904,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 724,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18396W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12648656-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18396W",
+    "read_url": "https://openlibrary.org/works/OL18396W",
+    "popularity_score": 72.4
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18415W",
+    "title": "Ozma of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1907,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 701,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18415W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12648657-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18415W",
+    "read_url": "https://openlibrary.org/works/OL18415W",
+    "popularity_score": 70.10000000000001
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18409W",
+    "title": "The Emerald City of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1910,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 634,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18409W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1473556-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18409W",
+    "read_url": "https://openlibrary.org/works/OL18409W",
+    "popularity_score": 63.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18412W",
+    "title": "Dorothy and the Wizard in Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1908,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 622,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18412W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12648659-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18412W",
+    "read_url": "https://openlibrary.org/works/OL18412W",
+    "popularity_score": 62.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18411W",
+    "title": "The Lost Princess of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1917,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 591,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18411W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/854819-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18411W",
+    "read_url": "https://openlibrary.org/works/OL18411W",
+    "popularity_score": 59.1
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL407476W",
+    "title": "The Story of the Amulet",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1905,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 578,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL407476W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13241470-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL407476W",
+    "read_url": "https://openlibrary.org/works/OL407476W",
+    "popularity_score": 57.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262358W",
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1902,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 560,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262358W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1979059-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262358W",
+    "read_url": "https://openlibrary.org/works/OL262358W",
+    "popularity_score": 56.0
+  },
+  {
+    "source": "google",
+    "source_id": "GZAoAQAAIAAJ",
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "description": "At a time when the forces of evil seem to be gaining the upper hand, Harry comes of age in the wizarding world, and must take on and defeat Voldemort--or be killed himself.",
+    "categories": [
+      "Juvenile Fiction",
+      "fantasy"
+    ],
+    "published_year": 2007,
+    "average_rating": 4.5,
+    "ratings_count": 92,
+    "edition_count": 126,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "http://books.google.com/books?id=GZAoAQAAIAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=GZAoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "preview_url": "http://books.google.com/books?id=GZAoAQAAIAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+    "read_url": "http://play.google.com/books/reader?id=GZAoAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+    "popularity_score": 55.762483709814475
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL151411W",
+    "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1889,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 542,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL151411W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8595966-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL151411W",
+    "read_url": "https://openlibrary.org/works/OL151411W",
+    "popularity_score": 54.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262390W",
+    "title": "The Road to Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1909,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 533,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262390W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8243922-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262390W",
+    "read_url": "https://openlibrary.org/works/OL262390W",
+    "popularity_score": 53.300000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262384W",
+    "title": "The Sea Fairies",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1911,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 528,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262384W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1814237-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262384W",
+    "read_url": "https://openlibrary.org/works/OL262384W",
+    "popularity_score": 52.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262341W",
+    "title": "Baum's American Fairy Tales",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1901,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 514,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262341W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/709869-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262341W",
+    "read_url": "https://openlibrary.org/works/OL262341W",
+    "popularity_score": 51.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262385W",
+    "title": "Sky Island",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1912,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 510,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262385W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2752804-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262385W",
+    "read_url": "https://openlibrary.org/works/OL262385W",
+    "popularity_score": 51.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262352W",
+    "title": "The Scarecrow of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1915,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 503,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262352W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/431586-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262352W",
+    "read_url": "https://openlibrary.org/works/OL262352W",
+    "popularity_score": 50.300000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18405W",
+    "title": "The Patchwork Girl of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1913,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 496,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18405W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1473369-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18405W",
+    "read_url": "https://openlibrary.org/works/OL18405W",
+    "popularity_score": 49.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262380W",
+    "title": "The Magic of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1919,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 494,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262380W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/5071176-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262380W",
+    "read_url": "https://openlibrary.org/works/OL262380W",
+    "popularity_score": 49.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18414W",
+    "title": "Tik-Tok of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1914,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 490,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18414W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8243277-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL18414W",
+    "read_url": "https://openlibrary.org/works/OL18414W",
+    "popularity_score": 49.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262376W",
+    "title": "Rinkitink in Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1916,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 488,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262376W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/765814-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262376W",
+    "read_url": "https://openlibrary.org/works/OL262376W",
+    "popularity_score": 48.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL99541W",
+    "title": "The Enchanted Castle",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1907,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 478,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL99541W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6644514-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL99541W",
+    "read_url": "https://openlibrary.org/works/OL99541W",
+    "popularity_score": 47.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262381W",
+    "title": "The Tin Woodman of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1918,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 461,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262381W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/755973-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262381W",
+    "read_url": "https://openlibrary.org/works/OL262381W",
+    "popularity_score": 46.1
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL27482W",
+    "title": "The Hobbit",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1937,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 460,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL27482W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14627509-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL27482W",
+    "read_url": "https://openlibrary.org/works/OL27482W",
+    "popularity_score": 46.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262391W",
+    "title": "Glinda of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1920,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 454,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262391W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/758814-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262391W",
+    "read_url": "https://openlibrary.org/works/OL262391W",
+    "popularity_score": 45.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL99535W",
+    "title": "The Magic City",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1910,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 445,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL99535W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1673063-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL99535W",
+    "read_url": "https://openlibrary.org/works/OL99535W",
+    "popularity_score": 44.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL99539W",
+    "title": "The Phoenix and the Carpet",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1903,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 438,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL99539W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/902122-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL99539W",
+    "read_url": "https://openlibrary.org/works/OL99539W",
+    "popularity_score": 43.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1168083W",
+    "title": "Nineteen Eighty-Four",
+    "authors": [
+      "George Orwell"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1949,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 436,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1168083W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9267242-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL1168083W",
+    "read_url": "https://openlibrary.org/works/OL1168083W",
+    "popularity_score": 43.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1527356W",
+    "title": "Le avventure di Pinocchio",
+    "authors": [
+      "Carlo Collodi"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1883,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 430,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1527356W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8597022-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL1527356W",
+    "read_url": "https://openlibrary.org/works/OL1527356W",
+    "popularity_score": 43.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL462007W",
+    "title": "Peter Pan",
+    "authors": [
+      "J. M. Barrie"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1911,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 429,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL462007W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8237052-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL462007W",
+    "read_url": "https://openlibrary.org/works/OL462007W",
+    "popularity_score": 42.900000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1100007W",
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "authors": [
+      "Jules Verne"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1872,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 425,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1100007W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6976035-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL1100007W",
+    "read_url": "https://openlibrary.org/works/OL1100007W",
+    "popularity_score": 42.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL15450W",
+    "title": "Phantastes",
+    "authors": [
+      "George MacDonald"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1850,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 417,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL15450W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14358814-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL15450W",
+    "read_url": "https://openlibrary.org/works/OL15450W",
+    "popularity_score": 41.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL10263W",
+    "title": "Le petit prince",
+    "authors": [
+      "Antoine de Saint-Exupéry"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1943,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 371,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL10263W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10708272-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL10263W",
+    "read_url": "https://openlibrary.org/works/OL10263W",
+    "popularity_score": 37.1
+  },
+  {
+    "source": "google",
+    "source_id": "w7FfrQxhnxEC",
+    "title": "Fablehaven",
+    "authors": [
+      "Brandon Mull"
+    ],
+    "description": "Kendra and Seth find themselves in the midst of a battle between good and evil when they visit their grandparents' estate and discover that it is a sanctuary for magical creatures.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2007,
+    "average_rating": 4.5,
+    "ratings_count": 63,
+    "edition_count": null,
+    "isbn_10": "1416947205",
+    "isbn_13": "9781416947202",
+    "canonical_url": "http://books.google.com/books?id=w7FfrQxhnxEC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=w7FfrQxhnxEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "preview_url": "http://books.google.com/books?id=w7FfrQxhnxEC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+    "read_url": "http://play.google.com/books/reader?id=w7FfrQxhnxEC&hl=&as_pt=BOOKS&source=gbs_api",
+    "popularity_score": 35.71764269937197
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL82563W",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1997,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 357,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL82563W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL82563W",
+    "read_url": "https://openlibrary.org/works/OL82563W",
+    "popularity_score": 35.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL2239396W",
+    "title": "À rebours",
+    "authors": [
+      "Joris-Karl Huysmans"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1884,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 332,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL2239396W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13170209-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL2239396W",
+    "read_url": "https://openlibrary.org/works/OL2239396W",
+    "popularity_score": 33.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL20165W",
+    "title": "Puck of Pook's Hill",
+    "authors": [
+      "Rudyard Kipling"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1900,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 322,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL20165W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8242296-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL20165W",
+    "read_url": "https://openlibrary.org/works/OL20165W",
+    "popularity_score": 32.2
+  },
+  {
+    "source": "google",
+    "source_id": "-Hkez1E8jJoC",
+    "title": "The Little Prince",
+    "authors": [],
+    "description": "A man has an accident in the Sahara Desert, and encounters the Little Prince.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2000,
+    "average_rating": 4.5,
+    "ratings_count": 50,
+    "edition_count": null,
+    "isbn_10": "0152023984",
+    "isbn_13": "9780152023980",
+    "canonical_url": "http://books.google.com/books?id=-Hkez1E8jJoC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=-Hkez1E8jJoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "preview_url": "http://books.google.com/books?id=-Hkez1E8jJoC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=49&source=gbs_api",
+    "read_url": "http://play.google.com/books/reader?id=-Hkez1E8jJoC&hl=&as_pt=BOOKS&source=gbs_api",
+    "popularity_score": 31.81980515339464
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL27513W",
+    "title": "The Fellowship of the Ring",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1954,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 296,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL27513W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14627060-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL27513W",
+    "read_url": "https://openlibrary.org/works/OL27513W",
+    "popularity_score": 29.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262388W",
+    "title": "The Enchanted Island of Yew",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1903,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 288,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262388W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1755697-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL262388W",
+    "read_url": "https://openlibrary.org/works/OL262388W",
+    "popularity_score": 28.8
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL27479W",
+    "title": "The Two Towers",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1954,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 278,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL27479W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14627564-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL27479W",
+    "read_url": "https://openlibrary.org/works/OL27479W",
+    "popularity_score": 27.8
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL82537W",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1998,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 276,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL82537W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8392798-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL82537W",
+    "read_url": "https://openlibrary.org/works/OL82537W",
+    "popularity_score": 27.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL27455W",
+    "title": "The Return of the King",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1950,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 272,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL27455W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14627062-M.jpg",
+    "preview_url": "https://openlibrary.org/works/OL27455W",
+    "read_url": "https://openlibrary.org/works/OL27455W",
+    "popularity_score": 27.200000000000003
+  }
+]

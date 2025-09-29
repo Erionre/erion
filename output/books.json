@@ -1,0 +1,3248 @@
+[
+  {
+    "source": "openlibrary",
+    "source_id": "OL138052W",
+    "title": "Alice's Adventures in Wonderland",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1865,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 3546,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL138052W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10527843-M.jpg",
+    "popularity_score": 354.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL21177W",
+    "title": "Wuthering Heights",
+    "authors": [
+      "Emily Brontë"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1846,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 2850,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL21177W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12818862-M.jpg",
+    "popularity_score": 285.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL66513W",
+    "title": "Emma",
+    "authors": [
+      "Jane Austen"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1815,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 2261,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL66513W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9278312-M.jpg",
+    "popularity_score": 226.10000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18417W",
+    "title": "The Wonderful Wizard of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1899,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 2052,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18417W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/552443-M.jpg",
+    "popularity_score": 205.20000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL66562W",
+    "title": "Sense and Sensibility",
+    "authors": [
+      "Jane Austen"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1811,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 2015,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL66562W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9278292-M.jpg",
+    "popularity_score": 201.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL24034W",
+    "title": "Treasure Island",
+    "authors": [
+      "Robert Louis Stevenson"
+    ],
+    "description": null,
+    "categories": [
+      "thriller",
+      "fantasy"
+    ],
+    "published_year": 1880,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1984,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL24034W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13859660-M.jpg",
+    "popularity_score": 198.4
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL29983W",
+    "title": "Little Women",
+    "authors": [
+      "Louisa May Alcott"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1848,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1887,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL29983W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8775559-M.jpg",
+    "popularity_score": 188.70000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL20600W",
+    "title": "Gulliver's Travels",
+    "authors": [
+      "Jonathan Swift"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1726,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1809,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL20600W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12717083-M.jpg",
+    "popularity_score": 180.9
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1089297W",
+    "title": "The Prince",
+    "authors": [
+      "Niccolò Machiavelli"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1515,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1406,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1089297W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12726168-M.jpg",
+    "popularity_score": 140.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL151406W",
+    "title": "Through the Looking-Glass",
+    "authors": [
+      "Lewis Carroll",
+      "Lewis Carroll",
+      "Lewis Lewis Carroll"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1865,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1378,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL151406W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/11272464-M.jpg",
+    "popularity_score": 137.8
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL28570037W",
+    "title": "The Wind in the Willows",
+    "authors": [
+      "Kenneth Grahame"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1908,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1346,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL28570037W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13335427-M.jpg",
+    "popularity_score": 134.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL267096W",
+    "title": "Анна Каренина",
+    "authors": [
+      "Лев Толстой"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1876,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1314,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL267096W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2560652-M.jpg",
+    "popularity_score": 131.4
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1095427W",
+    "title": "Jane Eyre",
+    "authors": [
+      "Charlotte Brontë"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1847,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1169,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1095427W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8235363-M.jpg",
+    "popularity_score": 116.9
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL472715W",
+    "title": "The Mysterious Affair at Styles",
+    "authors": [
+      "Agatha Christie",
+      "Aric Cushing",
+      "Bookstar"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1920,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1017,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL472715W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13699667-M.jpg",
+    "popularity_score": 101.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL66534W",
+    "title": "Northanger Abbey",
+    "authors": [
+      "Jane Austen"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1818,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1011,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL66534W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12567961-M.jpg",
+    "popularity_score": 101.10000000000001
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL98501W",
+    "title": "Ethan Frome",
+    "authors": [
+      "Edith Wharton"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1910,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 1000,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL98501W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8303480-M.jpg",
+    "popularity_score": 100.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL99499W",
+    "title": "Five Children and It",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1905,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 950,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL99499W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/28174-M.jpg",
+    "popularity_score": 95.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL259010W",
+    "title": "A Midsummer Night's Dream",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1600,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 947,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL259010W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7205924-M.jpg",
+    "popularity_score": 94.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262460W",
+    "title": "The Lost World",
+    "authors": [
+      "Arthur Conan Doyle"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1900,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 747,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262460W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8231444-M.jpg",
+    "popularity_score": 74.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL36287W",
+    "title": "El Conde de Montecristo",
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1830,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 732,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL36287W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14566393-M.jpg",
+    "popularity_score": 73.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL85892W",
+    "title": "Dracula",
+    "authors": [
+      "Bram Stoker"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1897,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 732,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL85892W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12216503-M.jpg",
+    "popularity_score": 73.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18396W",
+    "title": "The Marvelous Land of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1904,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 724,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18396W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12648656-M.jpg",
+    "popularity_score": 72.4
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL76524W",
+    "title": "The Thirty-Nine Steps",
+    "authors": [
+      "John Buchan"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1915,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 715,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL76524W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/93020-M.jpg",
+    "popularity_score": 71.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18415W",
+    "title": "Ozma of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1907,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 701,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18415W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12648657-M.jpg",
+    "popularity_score": 70.10000000000001
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL152161W",
+    "title": "Uncle Tom's Cabin",
+    "authors": [
+      "Harriet Beecher Stowe"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1850,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 662,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL152161W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12728198-M.jpg",
+    "popularity_score": 66.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL85891W",
+    "title": "The Jewel of Seven Stars",
+    "authors": [
+      "Bram Stoker"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1902,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 653,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL85891W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2760301-M.jpg",
+    "popularity_score": 65.3
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL20844W",
+    "title": "The Red Badge of Courage",
+    "authors": [
+      "Stephen Crane"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1855,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 639,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL20844W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8236915-M.jpg",
+    "popularity_score": 63.900000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL176092W",
+    "title": "The Moonstone",
+    "authors": [
+      "Wilkie Collins"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1868,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 637,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL176092W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8237041-M.jpg",
+    "popularity_score": 63.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18409W",
+    "title": "The Emerald City of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1910,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 634,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18409W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1473556-M.jpg",
+    "popularity_score": 63.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL245401W",
+    "title": "The Prisoner of Zenda",
+    "authors": [
+      "Anthony Hope",
+      "Gary Hoppenstand",
+      "Diane Mowat",
+      "Alan Marks",
+      "Francesc Ràfols",
+      "Andrew Pugsley",
+      "Summer M. Hogan",
+      "Summer Hogan",
+      "Smidgen Press",
+      "Charles Dana Gibson",
+      "Daniel Lanza Barba",
+      "Javier Fornell Fernandez",
+      "Stephen Colbourn",
+      "Katy Jackson",
+      "James Wilby",
+      "Robinson, M."
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1800,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 625,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL245401W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/105814-M.jpg",
+    "popularity_score": 62.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18412W",
+    "title": "Dorothy and the Wizard in Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1908,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 622,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18412W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12648659-M.jpg",
+    "popularity_score": 62.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18411W",
+    "title": "The Lost Princess of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1917,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 591,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18411W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/854819-M.jpg",
+    "popularity_score": 59.1
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL407476W",
+    "title": "The Story of the Amulet",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1905,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 578,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL407476W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13241470-M.jpg",
+    "popularity_score": 57.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262358W",
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1902,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 560,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262358W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1979059-M.jpg",
+    "popularity_score": 56.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL81294W",
+    "title": "Women in Love",
+    "authors": [
+      "D. H. Lawrence"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1877,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 553,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL81294W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13140934-M.jpg",
+    "popularity_score": 55.300000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL151411W",
+    "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1889,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 542,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL151411W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8595966-M.jpg",
+    "popularity_score": 54.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262390W",
+    "title": "The Road to Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1909,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 533,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262390W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8243922-M.jpg",
+    "popularity_score": 53.300000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL23797W",
+    "title": "The Riddle of the Sands",
+    "authors": [
+      "Erskine Childers"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1903,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 531,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL23797W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2293974-M.jpg",
+    "popularity_score": 53.1
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262384W",
+    "title": "The Sea Fairies",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1911,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 528,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262384W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1814237-M.jpg",
+    "popularity_score": 52.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262341W",
+    "title": "Baum's American Fairy Tales",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1901,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 514,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262341W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/709869-M.jpg",
+    "popularity_score": 51.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262385W",
+    "title": "Sky Island",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1912,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 510,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262385W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2752804-M.jpg",
+    "popularity_score": 51.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL77950W",
+    "title": "The deerslayer",
+    "authors": [
+      "James Fenimore Cooper"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1841,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 504,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL77950W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8237593-M.jpg",
+    "popularity_score": 50.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262352W",
+    "title": "The Scarecrow of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1915,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 503,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262352W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/431586-M.jpg",
+    "popularity_score": 50.300000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL17453W",
+    "title": "She",
+    "authors": [
+      "H. Rider Haggard"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1886,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 499,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL17453W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/295537-M.jpg",
+    "popularity_score": 49.900000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18405W",
+    "title": "The Patchwork Girl of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1913,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 496,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18405W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1473369-M.jpg",
+    "popularity_score": 49.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL468488W",
+    "title": "This Side of Paradise",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1920,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 495,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL468488W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8243609-M.jpg",
+    "popularity_score": 49.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262380W",
+    "title": "The Magic of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1919,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 494,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262380W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/5071176-M.jpg",
+    "popularity_score": 49.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL18414W",
+    "title": "Tik-Tok of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1914,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 490,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL18414W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8243277-M.jpg",
+    "popularity_score": 49.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262376W",
+    "title": "Rinkitink in Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1916,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 488,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262376W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/765814-M.jpg",
+    "popularity_score": 48.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL99541W",
+    "title": "The Enchanted Castle",
+    "authors": [
+      "Edith Nesbit"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1907,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 478,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL99541W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6644514-M.jpg",
+    "popularity_score": 47.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1103093W",
+    "title": "Cranford",
+    "authors": [
+      "Elizabeth Cleghorn Gaskell"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1853,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 473,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1103093W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/5188445-M.jpg",
+    "popularity_score": 47.300000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL38663W",
+    "title": "Heart of Darkness",
+    "authors": [
+      "Joseph Conrad"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1899,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 464,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL38663W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12307847-M.jpg",
+    "popularity_score": 46.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL262381W",
+    "title": "The Tin Woodman of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1918,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 461,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL262381W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/755973-M.jpg",
+    "popularity_score": 46.1
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL27482W",
+    "title": "The Hobbit",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "description": null,
+    "categories": [
+      "fantasy"
+    ],
+    "published_year": 1937,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 460,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL27482W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14627509-M.jpg",
+    "popularity_score": 46.0
+  },
+  {
+    "source": "google",
+    "source_id": "GZAoAQAAIAAJ",
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "description": "At a time when the forces of evil seem to be gaining the upper hand, Harry comes of age in the wizarding world, and must take on and defeat Voldemort--or be killed himself.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2007,
+    "average_rating": 4.5,
+    "ratings_count": 92,
+    "edition_count": null,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "http://books.google.com/books?id=GZAoAQAAIAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=GZAoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 43.162483709814474
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL78009W",
+    "title": "The Pathfinder",
+    "authors": [
+      "James Fenimore Cooper"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1800,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 427,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL78009W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8980913-M.jpg",
+    "popularity_score": 42.7
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL44973W",
+    "title": "Under the Greenwood Tree or, The Mellstock quire",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1872,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 425,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL44973W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/902186-M.jpg",
+    "popularity_score": 42.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL44986W",
+    "title": "Jude the Obscure",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1895,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 425,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL44986W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12973053-M.jpg",
+    "popularity_score": 42.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1100007W",
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "authors": [
+      "Jules Verne"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1872,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 425,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1100007W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6976035-M.jpg",
+    "popularity_score": 42.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL733640W",
+    "title": "Le rouge et le noir",
+    "authors": [
+      "Stendhal"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1830,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 404,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL733640W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8231413-M.jpg",
+    "popularity_score": 40.400000000000006
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL44990W",
+    "title": "The Woodlanders",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1800,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 392,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL44990W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8243078-M.jpg",
+    "popularity_score": 39.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1099280W",
+    "title": "Vingt mille lieues sous les mers",
+    "authors": [
+      "Jules Verne"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1870,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 382,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1099280W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6573517-M.jpg",
+    "popularity_score": 38.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL77997W",
+    "title": "The pioneers",
+    "authors": [
+      "James Fenimore Cooper"
+    ],
+    "description": null,
+    "categories": [
+      "thriller",
+      "romance"
+    ],
+    "published_year": 1800,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 378,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL77997W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9000512-M.jpg",
+    "popularity_score": 37.800000000000004
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL74504W",
+    "title": "White Fang",
+    "authors": [
+      "Jack London"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1905,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 367,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL74504W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8236920-M.jpg",
+    "popularity_score": 36.7
+  },
+  {
+    "source": "google",
+    "source_id": "w7FfrQxhnxEC",
+    "title": "Fablehaven",
+    "authors": [
+      "Brandon Mull"
+    ],
+    "description": "Kendra and Seth find themselves in the midst of a battle between good and evil when they visit their grandparents' estate and discover that it is a sanctuary for magical creatures.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2007,
+    "average_rating": 4.5,
+    "ratings_count": 63,
+    "edition_count": null,
+    "isbn_10": "1416947205",
+    "isbn_13": "9781416947202",
+    "canonical_url": "http://books.google.com/books?id=w7FfrQxhnxEC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=w7FfrQxhnxEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 35.71764269937197
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL24166W",
+    "title": "Kidnapped",
+    "authors": [
+      "Robert Louis Stevenson"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1886,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 352,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL24166W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8267822-M.jpg",
+    "popularity_score": 35.2
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL76598W",
+    "title": "Mr. Standfast",
+    "authors": [
+      "John Buchan"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1919,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 325,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL76598W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6962564-M.jpg",
+    "popularity_score": 32.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL4885721W",
+    "title": "A strange disappearance",
+    "authors": [
+      "Anna Katharine Green",
+      "Anna Katharine Green",
+      "Cyanide Publishing",
+      "Anna Katherine Green",
+      "Anna Green"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1879,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 306,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL4885721W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12657405-M.jpg",
+    "popularity_score": 30.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL2681032W",
+    "title": "The Evil Shepherd",
+    "authors": [
+      "Edward Phillips Oppenheim"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1922,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 289,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL2681032W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12648419-M.jpg",
+    "popularity_score": 28.900000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL98491W",
+    "title": "The Age of Innocence",
+    "authors": [
+      "Edith Wharton"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1920,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 285,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL98491W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/11196262-M.jpg",
+    "popularity_score": 28.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL109880W",
+    "title": "Framley Parsonage",
+    "authors": [
+      "Anthony Trollope"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1861,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 276,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL109880W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8288051-M.jpg",
+    "popularity_score": 27.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL276328W",
+    "title": "Daisy Miller",
+    "authors": [
+      "Henry James"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1877,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 244,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL276328W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6482238-M.jpg",
+    "popularity_score": 24.400000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL276470W",
+    "title": "The Ambassadors",
+    "authors": [
+      "Henry James"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1903,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 231,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL276470W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/313610-M.jpg",
+    "popularity_score": 23.1
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL44995W",
+    "title": "Far From the Madding Crowd",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1874,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 229,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL44995W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/902038-M.jpg",
+    "popularity_score": 22.900000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL2021957W",
+    "title": "Otto of the Silver Hand",
+    "authors": [
+      "Howard Pyle",
+      "Howard Pyle"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1888,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 226,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL2021957W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7263483-M.jpg",
+    "popularity_score": 22.6
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL276395W",
+    "title": "Washington Square",
+    "authors": [
+      "Henry James"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1880,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 219,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL276395W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8243278-M.jpg",
+    "popularity_score": 21.900000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL44994W",
+    "title": "The Return of the Native",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1878,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 205,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL44994W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8162989-M.jpg",
+    "popularity_score": 20.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL471940W",
+    "title": "Poirot investigates",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1924,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 205,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL471940W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13670505-M.jpg",
+    "popularity_score": 20.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1099513W",
+    "title": "Voyage au Centre de la Terre",
+    "authors": [
+      "Jules Verne"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1867,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 204,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1099513W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/5890987-M.jpg",
+    "popularity_score": 20.400000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL455327W",
+    "title": "Lord of the Flies",
+    "authors": [
+      "William Golding"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1954,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 191,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL455327W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8684447-M.jpg",
+    "popularity_score": 19.1
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL827326W",
+    "title": "The Beetle",
+    "authors": [
+      "Richard Marsh",
+      "Satomi Sugita"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1897,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 189,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL827326W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2748335-M.jpg",
+    "popularity_score": 18.900000000000002
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL88813W",
+    "title": "A Room with a View",
+    "authors": [
+      "E. M. Forster"
+    ],
+    "description": null,
+    "categories": [
+      "romance"
+    ],
+    "published_year": 1905,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 185,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL88813W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1748132-M.jpg",
+    "popularity_score": 18.5
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL100239W",
+    "title": "An American Tragedy",
+    "authors": [
+      "Theodore Dreiser"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1900,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 176,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL100239W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12728401-M.jpg",
+    "popularity_score": 17.6
+  },
+  {
+    "source": "google",
+    "source_id": "qjFlYdAhCiAC",
+    "title": "Secrets of the Dragon Sanctuary",
+    "authors": [
+      "Brandon Mull"
+    ],
+    "description": "When Kendra and Seth go to stay at their grandparents' estate, they discover that it is a sanctuary for magical creatures and that a battle between good and evil is looming.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2010,
+    "average_rating": 4.5,
+    "ratings_count": 13,
+    "edition_count": null,
+    "isbn_10": "1416990283",
+    "isbn_13": "9781416990284",
+    "canonical_url": "http://books.google.com/books?id=qjFlYdAhCiAC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=qjFlYdAhCiAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 16.224980739587952
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL17455W",
+    "title": "A Tale of Three Lions",
+    "authors": [
+      "H. Rider Haggard"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 2004,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 162,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL17455W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/2009339-M.jpg",
+    "popularity_score": 16.2
+  },
+  {
+    "source": "google",
+    "source_id": "tWbVwZjv43kC",
+    "title": "The Glass Menagerie",
+    "authors": [
+      "Tennessee Williams"
+    ],
+    "description": "The only single edition now available of this American classic about a mother obsessed with her disabled daughter.",
+    "categories": [
+      "romance",
+      "Drama"
+    ],
+    "published_year": 1999,
+    "average_rating": 4,
+    "ratings_count": 14,
+    "edition_count": null,
+    "isbn_10": "0811214044",
+    "isbn_13": "9780811214049",
+    "canonical_url": "http://books.google.com/books?id=tWbVwZjv43kC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=tWbVwZjv43kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 14.966629547095765
+  },
+  {
+    "source": "google",
+    "source_id": "poq0maYov4MC",
+    "title": "Keeper of the Lost Cities",
+    "authors": [
+      "Shannon Messenger"
+    ],
+    "description": "At age 12, Sophie learns that the remarkable abilities that have always caused her to stand out identify her as an elf. After being brought to Eternalia to hone her skills, she discovers that she has secrets buried in her memory for which some would kill.",
+    "categories": [
+      "fantasy",
+      "Juvenile Nonfiction"
+    ],
+    "published_year": 2012,
+    "average_rating": 4.5,
+    "ratings_count": 11,
+    "edition_count": null,
+    "isbn_10": "1442445939",
+    "isbn_13": "9781442445932",
+    "canonical_url": "http://books.google.com/books?id=poq0maYov4MC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=poq0maYov4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 14.924811556599298
+  },
+  {
+    "source": "google",
+    "source_id": "ptHZAAAAMAAJ",
+    "title": "The Lord of the Rings",
+    "authors": [
+      "j.r.r. tolkien",
+      "John Ronald Reuel Tolkien"
+    ],
+    "description": "Contains the complete set of the six books of Lord of the Rings.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 2001,
+    "average_rating": 4.5,
+    "ratings_count": 11,
+    "edition_count": null,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "http://books.google.com/books?id=ptHZAAAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=ptHZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 14.924811556599298
+  },
+  {
+    "source": "google",
+    "source_id": "VTu8i9vGUksC",
+    "title": "The Cat in the Hat",
+    "authors": [
+      "Dr. Seuss"
+    ],
+    "description": "The Cat in the Hat entertains two children on a rainy day.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2012,
+    "average_rating": 4,
+    "ratings_count": 13,
+    "edition_count": null,
+    "isbn_10": "0449810860",
+    "isbn_13": "9780449810866",
+    "canonical_url": "http://books.google.com/books?id=VTu8i9vGUksC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=VTu8i9vGUksC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 14.422205101855956
+  },
+  {
+    "source": "google",
+    "source_id": "nt2gYevSZrMC",
+    "title": "The Harbinger",
+    "authors": [
+      "Jonathan Cahn"
+    ],
+    "description": "An anonymous man has received nine seals from The Prophet, with each seal containing mysterious sayings and prophecies from the Book of Isaiah about America's recent past and possible future destruction.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 2011,
+    "average_rating": 4.5,
+    "ratings_count": 10,
+    "edition_count": null,
+    "isbn_10": "161638610X",
+    "isbn_13": "9781616386108",
+    "canonical_url": "http://books.google.com/books?id=nt2gYevSZrMC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=nt2gYevSZrMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 14.230249470757707
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL8127199W",
+    "title": "In Secret",
+    "authors": [
+      "Robert W. Chambers"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1919,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 142,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL8127199W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1844837-M.jpg",
+    "popularity_score": 14.200000000000001
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL2344450W",
+    "title": "The Drums of Jeopardy",
+    "authors": [
+      "Harold MacGrath"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1920,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 140,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL2344450W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/11351150-M.jpg",
+    "popularity_score": 14.0
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL2713465W",
+    "title": "Nightmare Abbey",
+    "authors": [
+      "Thomas Love Peacock"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1818,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 140,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL2713465W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/1956635-M.jpg",
+    "popularity_score": 14.0
+  },
+  {
+    "source": "google",
+    "source_id": "WPnebZVDkNAC",
+    "title": "The Borrowers",
+    "authors": [
+      "Mary Norton"
+    ],
+    "description": "Miniature people live in an old country house and provide for themselves by \"borrowing\" things from the humans until they are forced to emigrate from their home under the clock.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 1953,
+    "average_rating": 4,
+    "ratings_count": 12,
+    "edition_count": null,
+    "isbn_10": "0152047379",
+    "isbn_13": "9780152047375",
+    "canonical_url": "http://books.google.com/books?id=WPnebZVDkNAC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=WPnebZVDkNAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 13.856406460551018
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL13150029W",
+    "title": "The Eye of Osiris",
+    "authors": [
+      "R. Austin Freeman"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1911,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 136,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL13150029W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7162423-M.jpg",
+    "popularity_score": 13.600000000000001
+  },
+  {
+    "source": "google",
+    "source_id": "Mo7D3Je7_DMC",
+    "title": "The Wind in the Willows",
+    "authors": [
+      "Kenneth Grahame"
+    ],
+    "description": "The escapades of four animal friends who live along a river in the English countryside--Toad, Mole, Rat, and Badger.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 1993,
+    "average_rating": 4.5,
+    "ratings_count": 7,
+    "edition_count": null,
+    "isbn_10": "185326122X",
+    "isbn_13": "9781853261220",
+    "canonical_url": "http://books.google.com/books?id=Mo7D3Je7_DMC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=Mo7D3Je7_DMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 11.905880899790658
+  },
+  {
+    "source": "google",
+    "source_id": "yRSoAAAAIAAJ",
+    "title": "The Eleventh Commandment",
+    "authors": [
+      "Jeffrey Archer"
+    ],
+    "description": "ELEVENTH COMMANDMENT Jeffrey Archer Connor Fitzgerald has an impressive resume. Military hero. Devoted family man. Servant of his country--as an assassin. Just as he's about to put his twenty-eight-year career at the CIA behind him, he comes up against the most dangerous enemy he's ever faced: His own boss, Helen Dexter.\"\" As Director of the CIA, Dexter has always been the one to hold the strings. But when her status is threatened by a greater power, her only hope for survival is to destroy Fitzgerald. Meanwhile, the country braces itself as tensions with a new Russian leader reach the boiling point...and it's up to Fitzgerald to pull off his most daring mission yet: To save the world. Even if that means risking everything--including his own life--in the process.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 1998,
+    "average_rating": 3.5,
+    "ratings_count": 11,
+    "edition_count": null,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "http://books.google.com/books?id=yRSoAAAAIAAJ&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=yRSoAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 11.6081867662439
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL81626W",
+    "title": "Carrie",
+    "authors": [
+      "Stephen King"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1974,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 113,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL81626W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9256043-M.jpg",
+    "popularity_score": 11.3
+  },
+  {
+    "source": "google",
+    "source_id": "0ovOTsTs22AC",
+    "title": "Eragon",
+    "authors": [
+      "Christopher Paolini"
+    ],
+    "description": "14 Compact Discs; 16 hours, 23 minutes; unabridged Audio CD.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2006,
+    "average_rating": 5,
+    "ratings_count": 5,
+    "edition_count": null,
+    "isbn_10": "044023848X",
+    "isbn_13": "9780440238485",
+    "canonical_url": "http://books.google.com/books?id=0ovOTsTs22AC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=0ovOTsTs22AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 11.180339887498949
+  },
+  {
+    "source": "openlibrary",
+    "source_id": "OL1914022W",
+    "title": "The Pillars of the Earth",
+    "authors": [
+      "Ken Follett"
+    ],
+    "description": null,
+    "categories": [
+      "thriller"
+    ],
+    "published_year": 1989,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": 110,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://openlibrary.org/works/OL1914022W",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9269909-M.jpg",
+    "popularity_score": 11.0
+  },
+  {
+    "source": "google",
+    "source_id": "01N88IPrDnYC",
+    "title": "The Dead Zone",
+    "authors": [
+      "Stephen King"
+    ],
+    "description": "A supernatural thriller that plunges the reader into the fate awaiting all mankind -- The Dead Zone. Copyright © Libri GmbH. All rights reserved.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 1979,
+    "average_rating": 3.5,
+    "ratings_count": 8,
+    "edition_count": null,
+    "isbn_10": "0670260770",
+    "isbn_13": "9780670260775",
+    "canonical_url": "http://books.google.com/books?id=01N88IPrDnYC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=01N88IPrDnYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 9.899494936611665
+  },
+  {
+    "source": "google",
+    "source_id": "4TtmtWzIIpsC",
+    "title": "Captivated",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "description": "His interest in her was purely professional ... or so he told himself.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2004,
+    "average_rating": 4,
+    "ratings_count": 6,
+    "edition_count": null,
+    "isbn_10": "0373285000",
+    "isbn_13": "9780373285006",
+    "canonical_url": "http://books.google.com/books?id=4TtmtWzIIpsC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=4TtmtWzIIpsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 9.797958971132712
+  },
+  {
+    "source": "google",
+    "source_id": "HuWP4w41tOEC",
+    "title": "Brother Odd",
+    "authors": [
+      "Dean Ray Koontz"
+    ],
+    "description": "Loop me in, odd one.The words, spoken in the deep of night by a sleeping child, chill the young man watching over her. For this was a favorite phrase of Stormy Llewellyn, his lost love, and Stormy is dead, gone forever from this world. In the haunted halls of the isolated monastery where he had sought peace, Odd Thomas is stalking spirits of an infinitely darker nature Through twoNew York Timesbestselling novels Odd Thomas has established himself as one of the most beloved and unique fictional heroes of our time. Now, wielding all the power and magic of a master storyteller at the pinnacle of his craft, Dean Koontz follows Odd into a singular new world where he hopes to make a fresh beginning—but where he will meet an adversary as old and inexorable as time itself. St. Bartholomew’s Abbey sits in majestic solitude amid the wild peaks of California’s high Sierra, a haven for children otherwise abandoned, and a sanctuary for those seeking insight. Odd Thomas has come here to learn to live fully again, and among the eccentric monks, their other guests, and the nuns and young students of the attached convent school, he has begun to find his way. The silent spirits of the dead who visited him in his earlier life are mercifully absent, save for the bell-ringing Brother Constantine and Odd’s steady companion, the King of Rock 'n' Roll. But trouble has a way of finding Odd Thomas, and it slinks back onto his path in the form of the sinister bodachs he has met previously, the black shades who herald death and disaster, and who come late one December night to hover above the abbey’s most precious charges. For Odd is about to face an enemy who eclipses any he has yet encountered, as he embarks on a journey of mystery, wonder, and sheer suspense that surpasses all that has come before. From the Hardcover edition.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 2007,
+    "average_rating": 4.5,
+    "ratings_count": 4,
+    "edition_count": null,
+    "isbn_10": "0553589105",
+    "isbn_13": "9780553589108",
+    "canonical_url": "http://books.google.com/books?id=HuWP4w41tOEC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=HuWP4w41tOEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 9.0
+  },
+  {
+    "source": "google",
+    "source_id": "Fc4vX8-vQPgC",
+    "title": "Tales from Earthsea",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "description": "Exploring the legend of Earthsea's history, people, languages, literature, and magic, this collection of four magical stories is now available in a paperback edition.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 2002,
+    "average_rating": 4,
+    "ratings_count": 5,
+    "edition_count": null,
+    "isbn_10": "0441009328",
+    "isbn_13": "9780441009329",
+    "canonical_url": "http://books.google.com/books?id=Fc4vX8-vQPgC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=Fc4vX8-vQPgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 8.94427190999916
+  },
+  {
+    "source": "google",
+    "source_id": "90k8DwAAQBAJ",
+    "title": "Nightfall",
+    "authors": [
+      "Shannon Messenger"
+    ],
+    "description": "Sophie and her friends face battles unlike anything they've experienced before in this thrilling sixth book of Messenger's New York Times- and USA Today-bestselling series. 5 1/2 x 8 5/16.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2017,
+    "average_rating": 5,
+    "ratings_count": 3,
+    "edition_count": null,
+    "isbn_10": "1481497405",
+    "isbn_13": "9781481497404",
+    "canonical_url": "http://books.google.com/books?id=90k8DwAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=90k8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 8.660254037844386
+  },
+  {
+    "source": "google",
+    "source_id": "ahRAAAAAIAAJ",
+    "title": "The Illustrated Man",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "description": "Eighteen science fiction stories.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 1951,
+    "average_rating": 4,
+    "ratings_count": 4,
+    "edition_count": null,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "http://books.google.com/books?id=ahRAAAAAIAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=ahRAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 8.0
+  },
+  {
+    "source": "google",
+    "source_id": "xYotngEACAAJ",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "description": "Harry Potter is an ordinary boy who lives in a cupboard under the stairs at his Aunt Petunia and Uncle Vernon's house, which he thinks is normal for someone like him who's parents have been killed in a 'car crash'. He is bullied by them and his fat, spoilt cousin Dudley, and lives a very unremarkable life with only the odd hiccup (like his hair growing back overnight!) to cause him much to think about. That is until an owl turns up with a letter addressed to Harry and all hell breaks loose! He is literally rescued by a world where nothing is as it seems and magic lessons are the order of the day. Read and find out how Harry discovers his true heritage at Hogwarts School of Wizardry and Witchcraft, the reason behind his parents mysterious death, who is out to kill him, and how he uncovers the most amazing secret of all time, the fabled Philosopher's Stone! All this and muggles too. Now, what are they?",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 1997,
+    "average_rating": 4.5,
+    "ratings_count": 3,
+    "edition_count": null,
+    "isbn_10": "0747532699",
+    "isbn_13": "9780747532699",
+    "canonical_url": "http://books.google.com/books?id=xYotngEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=xYotngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 7.794228634059947
+  },
+  {
+    "source": "google",
+    "source_id": "4bn7XhMeBH8C",
+    "title": "Prince Caspian Movie Tie-in Edition (rack)",
+    "authors": [
+      "C. S. Lewis"
+    ],
+    "description": "This movie tie-in edition of the full original PRINCE CASPIAN novel will be rack size, and feature a movie cover and an 8-page movie still insert.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 2008,
+    "average_rating": 5,
+    "ratings_count": 2,
+    "edition_count": null,
+    "isbn_10": "0061231061",
+    "isbn_13": "9780061231063",
+    "canonical_url": "http://books.google.com/books?id=4bn7XhMeBH8C&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=4bn7XhMeBH8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 7.0710678118654755
+  },
+  {
+    "source": "google",
+    "source_id": "xo424twqfEsC",
+    "title": "A Wrinkle in Time",
+    "authors": [
+      "Madeleine L'Engle"
+    ],
+    "description": "This special edition ofA Wrinkle in Timeincludes a new essay that explores the science behind the fantasy. Rediscover one of the most beloved children's books of all time:A Wrinkle in Timeby Madeleine L'Engle: Meg Murray, her little brother Charles Wallace, and their mother are having a midnight snack on a dark and stormy night when an unearthly stranger appears at their door. He claims to have been blown off course, and goes on to tell them that there is such a thing as a \"tesseract,\" which, if you didn't know, is a wrinkle in time. Meg's father had been experimenting with time-travel when he suddenly disappeared. Will Meg, Charles Wallace, and their friend Calvin outwit the forces of evil as they search through space for their father?",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 1973,
+    "average_rating": 4,
+    "ratings_count": 3,
+    "edition_count": null,
+    "isbn_10": "0440498058",
+    "isbn_13": "9780440498056",
+    "canonical_url": "http://books.google.com/books?id=xo424twqfEsC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=xo424twqfEsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 6.928203230275509
+  },
+  {
+    "source": "google",
+    "source_id": "-A7Yp3tF39oC",
+    "title": "Immoral",
+    "authors": [
+      "Brian Freeman"
+    ],
+    "description": "In a moral world, murder is the ultimate crime, a killer pays the ultimate price, and the victim remains buried. Unless everyone is immoral.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 2005,
+    "average_rating": 4,
+    "ratings_count": 3,
+    "edition_count": null,
+    "isbn_10": "0312340427",
+    "isbn_13": "9780312340421",
+    "canonical_url": "http://books.google.com/books?id=-A7Yp3tF39oC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=-A7Yp3tF39oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 6.928203230275509
+  },
+  {
+    "source": "google",
+    "source_id": "g40bVuX9wmYC",
+    "title": "The Da Vinci Code",
+    "authors": [
+      "Dan Brown"
+    ],
+    "description": "Robert Langdon, Harvard Professor of symbology, receives an urgent late-night call while in Paris: the curator of the Louvre has been murdered. Alongside the body is a series of baffling ciphers. Langdon and a gifted French cryptologist, Sophie Neveu, are stunned to find a trail that leads to the to the works of Da Vinci - and further. The curator, part of a secret society named the Priory of Sion, may have sacrificed his life to keep secret the location of a vastly important religious relic hidden for centuries. It appears that the clandestine Vatican-sanctioned Catholic sect Opus Dei has now made its move. Unless Landon and Neveu can decipher the labyrinthine code and quickly assemble the pieces of the puzzle, the Priory's secret - and a stunning historical truth - will be lost forever.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 2003,
+    "average_rating": 4.5,
+    "ratings_count": 2,
+    "edition_count": null,
+    "isbn_10": "0593051521",
+    "isbn_13": "9780593051528",
+    "canonical_url": "http://books.google.com/books?id=g40bVuX9wmYC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=g40bVuX9wmYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 6.3639610306789285
+  },
+  {
+    "source": "google",
+    "source_id": "fLrfKld2lLUC",
+    "title": "The Servants of Twilight",
+    "authors": [
+      "Dean Ray Koontz"
+    ],
+    "description": "Christine Scavello's life turns into a nightmare when her six-year-old son becomes a target for a group of religious fanatics who believe he is the Antichrist and will stop at nothing to kill him. Reissue.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 1984,
+    "average_rating": 3,
+    "ratings_count": 3,
+    "edition_count": null,
+    "isbn_10": "0425121259",
+    "isbn_13": "9780425121252",
+    "canonical_url": "http://books.google.com/books?id=fLrfKld2lLUC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=fLrfKld2lLUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 5.196152422706632
+  },
+  {
+    "source": "google",
+    "source_id": "aQUWFZWdg1IC",
+    "title": "Path of the Assassin",
+    "authors": [
+      "Brad Thor"
+    ],
+    "description": "With action-packed prose and dead-on authenticity, Thor and his indomitable hero Scot Harvath--from \"The Lions of Lucerne\"--are back, raising the stakes and taking on an anonymous terrorist bent on stoking a global holy war of apocalyptic proportions.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 2003,
+    "average_rating": 3,
+    "ratings_count": 3,
+    "edition_count": null,
+    "isbn_10": "0743436768",
+    "isbn_13": "9780743436762",
+    "canonical_url": "http://books.google.com/books?id=aQUWFZWdg1IC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=aQUWFZWdg1IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 5.196152422706632
+  },
+  {
+    "source": "google",
+    "source_id": "hRd7dJ-9G1IC",
+    "title": "The Wizard of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "description": ".0000000000This is the story of Dorothy and her little dog Toto, who are carried away from Kansas by a cyclone and transported to the wonderful world of Oz. She meets three companions - the Scarecrow, the Tin Woodman and the Cowardly Lion - and the three journey to the Emerald City of Oz to ask the Wizard of Oz to give them their hearts' desires, which in Dorothy's case is to return home to Kansas. On their way to Oz and while fulfilling the tasks that the surprising Wizard asks of them they encounter witches, winged monkeys, the Deadly Desert, fighting trees and magic shoes.This edition is evocatively illustrated with the original drawings of W. W. Denslow, with an Afterword by Ned Halley.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 2009,
+    "average_rating": 5,
+    "ratings_count": 1,
+    "edition_count": null,
+    "isbn_10": "1905716524",
+    "isbn_13": "9781905716524",
+    "canonical_url": "http://books.google.com/books?id=hRd7dJ-9G1IC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=hRd7dJ-9G1IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 5.0
+  },
+  {
+    "source": "google",
+    "source_id": "-PVWACFDvmEC",
+    "title": "Prince Charming",
+    "authors": [
+      "Julie Garwood"
+    ],
+    "description": "Beautiful Taylor Baker, whose fiance has eloped with her odious cousin and whose greedy uncle has his own plans for her, escapes to Montana with rough-edged American Lucas Ross.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 1995,
+    "average_rating": 5,
+    "ratings_count": 1,
+    "edition_count": null,
+    "isbn_10": "0671870963",
+    "isbn_13": "9780671870966",
+    "canonical_url": "http://books.google.com/books?id=-PVWACFDvmEC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=-PVWACFDvmEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 5.0
+  },
+  {
+    "source": "google",
+    "source_id": "SxPUCwAAQBAJ",
+    "title": "Me Before You (Movie Tie-In)",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "description": "Taking a job as an assistant to extreme sports enthusiast Will, who is wheelchair bound after a motorcycle accident, Louisa struggles with her employer's acerbic moods and learns of his shocking plans before demonstrating to him that life is still worth living.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2016,
+    "average_rating": 5,
+    "ratings_count": 1,
+    "edition_count": null,
+    "isbn_10": "0143109464",
+    "isbn_13": "9780143109464",
+    "canonical_url": "http://books.google.com/books?id=SxPUCwAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=SxPUCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 5.0
+  },
+  {
+    "source": "google",
+    "source_id": "o56mu1GaW2kC",
+    "title": "The Apostle",
+    "authors": [
+      "Brad Thor"
+    ],
+    "description": "When a media titan's daughter is kidnapped in Afghanistan and offered in exchange for the freedom of a top Al Qaeda operative, covert Homeland Security operative Scot Harvath undertakes a dangerous mission to free the terrorist from a Kabul prison.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 2009,
+    "average_rating": 3.5,
+    "ratings_count": 2,
+    "edition_count": null,
+    "isbn_10": "1416586571",
+    "isbn_13": "9781416586579",
+    "canonical_url": "http://books.google.com/books?id=o56mu1GaW2kC&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=o56mu1GaW2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 4.949747468305833
+  },
+  {
+    "source": "google",
+    "source_id": "ViZePgAACAAJ",
+    "title": "The Confessor",
+    "authors": [
+      "Daniel Silva"
+    ],
+    "description": "In the wake of a Munich writer's assassination, Mossad agent Gabriel Allon and Vatican priest Pietro embark on dangerous journeys that reveal long-buried secrets affecting the fates of millions of people.",
+    "categories": [
+      "thriller",
+      "Fiction"
+    ],
+    "published_year": 2003,
+    "average_rating": 4,
+    "ratings_count": 1,
+    "edition_count": null,
+    "isbn_10": "0786254483",
+    "isbn_13": "9780786254484",
+    "canonical_url": "http://books.google.com/books?id=ViZePgAACAAJ&dq=subject:thriller&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=ViZePgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 4.0
+  },
+  {
+    "source": "google",
+    "source_id": "Pnqx6B2lF60C",
+    "title": "The Silver Chair",
+    "authors": [
+      "Clive Staples Lewis"
+    ],
+    "description": "Two English children undergo hair-raising adventures as they go on a search and rescue mission for the missing Prince Rilian, who is held captive in the underground kingdom of the Emerald Witch.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 1998,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0006716814",
+    "isbn_13": "9780006716815",
+    "canonical_url": "http://books.google.com/books?id=Pnqx6B2lF60C&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=Pnqx6B2lF60C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "FD72ekYZqIkC",
+    "title": "A Wizard of Earthsea",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "description": "A boy grows to manhood while attempting to subdue the evil he unleashed on the world as an apprentice to the Master Wizard.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2012,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0547851391",
+    "isbn_13": "9780547851396",
+    "canonical_url": "http://books.google.com/books?id=FD72ekYZqIkC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "OJZFAAAAMAAJ",
+    "title": "Peter and Wendy",
+    "authors": [
+      "James Matthew Barrie"
+    ],
+    "description": "The adventures of Peter Pan, the boy who would not grow up.",
+    "categories": [
+      "fantasy",
+      "Children"
+    ],
+    "published_year": 1911,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": null,
+    "isbn_13": null,
+    "canonical_url": "https://play.google.com/store/books/details?id=OJZFAAAAMAAJ&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=OJZFAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "r2_rY3LwaA4C",
+    "title": "The Waste Lands",
+    "authors": [
+      "Stephen King"
+    ],
+    "description": "Roland, the Last Gunslinger, moves closer to The Dark Tower of his dreams and nightmares through a world of the fiendish foes.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 1993,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0451173317",
+    "isbn_13": "9780451173317",
+    "canonical_url": "http://books.google.com/books?id=r2_rY3LwaA4C&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=r2_rY3LwaA4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "WdM_qxJq8T8C",
+    "title": "Peter Pan",
+    "authors": [
+      "James Matthew Barrie"
+    ],
+    "description": "The adventures of the three darling children in Never-Never Land with Peter Pan, the boy who would not grow up.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 2008,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1402754264",
+    "isbn_13": "9781402754265",
+    "canonical_url": "http://books.google.com/books?id=WdM_qxJq8T8C&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=WdM_qxJq8T8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "klGC6xroFOwC",
+    "title": "The Magician's Nephew Color Gift Edition",
+    "authors": [
+      "C. S. Lewis"
+    ],
+    "description": "The first book in The Chronicles of Narnia is now available in a full-color, unabridged gift edition that includes all of the original Pauline Baynes illustrations.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 2003,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0060530847",
+    "isbn_13": "9780060530846",
+    "canonical_url": "http://books.google.com/books?id=klGC6xroFOwC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=klGC6xroFOwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "V94zd80Y4WIC",
+    "title": "Through the Looking-Glass",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "description": "Publisher description",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 1993,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0688120490",
+    "isbn_13": "9780688120498",
+    "canonical_url": "http://books.google.com/books?id=V94zd80Y4WIC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=V94zd80Y4WIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "S9RJEAAAQBAJ",
+    "title": "Bloodmarked",
+    "authors": [
+      "Tracy Deonn"
+    ],
+    "description": "\"When the leaders of the Order reveal that they will do everything in their power to keep the approaching demon war a secret, Bree and her friends go on the run so she can learn how to control her devastating new powers.\"--",
+    "categories": [
+      "fantasy",
+      "Young Adult Fiction"
+    ],
+    "published_year": 2022,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1534441638",
+    "isbn_13": "9781534441637",
+    "canonical_url": "http://books.google.com/books?id=S9RJEAAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=S9RJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "ihXFBAAAQBAJ",
+    "title": "The Ice Dragon",
+    "authors": [
+      "George R. R. Martin"
+    ],
+    "description": "A tale of courage and sacrifice set in the world of the #1 New York Times bestselling series A Song of Ice and Fire, basis for HBO's megahit Game of Thrones",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2014,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0765378779",
+    "isbn_13": "9780765378774",
+    "canonical_url": "http://books.google.com/books?id=ihXFBAAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=ihXFBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "0KFSDQAAQBAJ",
+    "title": "Lodestar",
+    "authors": [
+      "Shannon Messenger"
+    ],
+    "description": "Betrayed by one of their closest allies, Sophie's whole word has been turned inside out. The battles are shaping up and the stakes have never been higher ...",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2016,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1481474952",
+    "isbn_13": "9781481474955",
+    "canonical_url": "http://books.google.com/books?id=0KFSDQAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=0KFSDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "M8D1DwAAQBAJ",
+    "title": "An Ember in the Ashes",
+    "authors": [
+      "Sabaa Tahir"
+    ],
+    "description": "BOOK ONE IN THE NEW YORK TIMES BESTSELLING SERIES One of Time Magazine's 100 Best Fantasy Books of All Time Instant New York Times bestseller From #1 New York Times bestselling author Sabaa Tahir Amazon's Best Young Adult Book of 2015 People's Choice Award winner - Favorite Fantasy Bustle's Best Young Adult Book of 2015 \"This novel is a harrowing, haunting reminder of what it means to be human -- and how hope might be kindled in the midst of oppression and fear.\" -- The Washington Post \"An Ember in the Ashes could launch Sabaa Tahir into JK Rowling territory...It has the addictive quality of The Hunger Games combined with the fantasy of Harry Potter and the brutality of Game of Thrones.\"--Public Radio International \"An Ember in the Ashes glows, burns, and smolders--as beautiful and radiant as it is searing.\"--Huffington Post \"A worthy novel - and one as brave as its characters.\" --The New York Times Book Review Laia is a slave. Elias is a soldier. Neither is free. Under the Martial Empire, defiance is met with death. Those who do not vow their blood and bodies to the Emperor risk the execution of their loved ones and the destruction of all they hold dear. It is in this brutal world, inspired by ancient Rome, that Laia lives with her grandparents and older brother. The family ekes out an existence in the Empire's impoverished backstreets. They do not challenge the Empire. They've seen what happens to those who do. But when Laia's brother is arrested for treason, Laia is forced to make a decision. In exchange for help from rebels who promise to rescue her brother, she will risk her life to spy for them from within the Empire's greatest military academy. There, Laia meets Elias, the school's finest soldier--and secretly, its most unwilling. Elias wants only to be free of the tyranny he's being trained to enforce. He and Laia will soon realize that their destinies are intertwined--and that their choices will change the fate of the Empire itself.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2020,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0593206932",
+    "isbn_13": "9780593206935",
+    "canonical_url": "http://books.google.com/books?id=M8D1DwAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=M8D1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "BSuJEAAAQBAJ",
+    "title": "The Dragonbone Chair",
+    "authors": [
+      "Tad Williams"
+    ],
+    "description": "Simon, a young kitchen boy and magician's apprentice, finds his world torn apart by a civil war fueled by immortal enemies and the dark powers of sorcery.",
+    "categories": [
+      "fantasy",
+      "Fiction"
+    ],
+    "published_year": 2005,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0756402697",
+    "isbn_13": "9780756402693",
+    "canonical_url": "http://books.google.com/books?id=BSuJEAAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=BSuJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "qGhxPIwXLikC",
+    "title": "Bridge to Terabithia",
+    "authors": [
+      "Katherine Paterson"
+    ],
+    "description": "One of the most celebrated Newbery Medal winners of all time gets a magical makeover in this new edition, complete with a reader's guide that's ideal for teachers, book clubs, or anyone looking for insight into this favorite book.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 1979,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0380432811",
+    "isbn_13": "9780380432813",
+    "canonical_url": "http://books.google.com/books?id=qGhxPIwXLikC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=qGhxPIwXLikC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "x7gvAAAACAAJ",
+    "title": "Moomin, Mymble and Little My",
+    "authors": [
+      "Tove Jansson"
+    ],
+    "description": "Finnish artist Tove Jansson's Moomin stories have been continually in print for more than half a century, in 35 languages. They are among Europe's best loved and enduring children's classics, and through the TV animation (BBC2), the warm-hearted, whimsical creatures of Moomin valley have been brought to a new younger British audience.Introducing the first Sort Of Children's Classic in a new English version by Sophie Hannah. Sort of Books proudly presents the original full colour Moomin picture book with its irresistible cut-out page designs and playful rhyming text in a new version by one of Britain's star poets.",
+    "categories": [
+      "fantasy",
+      "Juvenile Fiction"
+    ],
+    "published_year": 2001,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0953522741",
+    "isbn_13": "9780953522743",
+    "canonical_url": "http://books.google.com/books?id=x7gvAAAACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=x7gvAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "FR2Z0-Z65oMC",
+    "title": "Down on My Knees",
+    "authors": [
+      "Victor McGlothin"
+    ],
+    "description": "C.1 ST. AID B & T. 01-17-2008. $15.00.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2006,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0758213468",
+    "isbn_13": "9780758213464",
+    "canonical_url": "http://books.google.com/books?id=FR2Z0-Z65oMC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=FR2Z0-Z65oMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "8TvTCwAAQBAJ",
+    "title": "Eligible",
+    "authors": [
+      "Curtis Sittenfeld"
+    ],
+    "description": "A modern retelling of Pride and Prejudice...Returning with her sister, Jane, to their Ohio hometown when their father falls ill, New York magazine editor Lizzy Bennett confronts challenges in the form of her younger sisters' football fangirl antics, a creepy cousin's unwanted attentions and the infuriating standoffish manners of a handsome neurosurgeon.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2016,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1400068320",
+    "isbn_13": "9781400068326",
+    "canonical_url": "http://books.google.com/books?id=8TvTCwAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=8TvTCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "7xWHngEACAAJ",
+    "title": "The House of the Seven Gables",
+    "authors": [
+      "Nathaniel Hawthorne",
+      "Philip Young"
+    ],
+    "description": null,
+    "categories": [
+      "romance",
+      "Classic"
+    ],
+    "published_year": 1970,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0030844207",
+    "isbn_13": "9780030844201",
+    "canonical_url": "http://books.google.com/books?id=7xWHngEACAAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": null,
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "pd4nAAAAQBAJ",
+    "title": "Twisted Perfection",
+    "authors": [
+      "Abbi Glines"
+    ],
+    "description": "\"Della Sloane is not your average girl. Yearning to break free of her dark and sheltered past and the memories of the illness that claimed her mother, Della plans a solo road trip to experience real life on her own terms. But the trip is nearly cut short in the little beach town of Rosemary when she realizes she can't even pump her own gas; until Woods Kerrington shows up, more than willing to help out a pretty girl in need.\"--Page 4 of cover.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2013,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1476756503",
+    "isbn_13": "9781476756509",
+    "canonical_url": "http://books.google.com/books?id=pd4nAAAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=pd4nAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "_y8kwT-j3sUC",
+    "title": "Simple Gifts",
+    "authors": [
+      "Judith McNaught",
+      "Jude Deveraux"
+    ],
+    "description": "4 Heartwarming Christmas Stories.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2001,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0743442237",
+    "isbn_13": "9780743442237",
+    "canonical_url": "http://books.google.com/books?id=_y8kwT-j3sUC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=_y8kwT-j3sUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "UbzCTzSyy6cC",
+    "title": "Because of Low",
+    "authors": [
+      "Abbi Glines"
+    ],
+    "description": "Originally self-published as an e-book, 2012.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2013,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1442488638",
+    "isbn_13": "9781442488632",
+    "canonical_url": "http://books.google.com/books?id=UbzCTzSyy6cC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=UbzCTzSyy6cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "dba8BwAAQBAJ",
+    "title": "When I'm Gone",
+    "authors": [
+      "Abbi Glines"
+    ],
+    "description": "\"A ... novel set in the fictional town of Rosemary Beach about a Texas rancher who falls in love with a housemaid at his rock star father's estate\"--",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2015,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1476776091",
+    "isbn_13": "9781476776095",
+    "canonical_url": "http://books.google.com/books?id=dba8BwAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=dba8BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "YlqxBgAAQBAJ",
+    "title": "Stealing Home",
+    "authors": [
+      "Sherryl Woods"
+    ],
+    "description": "#1 New York Times bestselling author Sherryl Woods returns readers to her world of strong friendships and heartfelt emotions in this classic Sweet Magnolias novel Maddie Townsend might live in a town called Serenity but there's been nothing calm or peaceful about her life since her marriage broke up. This stay-at-home mom has no job skills, an out-of-control sixteen-year-old son, a talkative fourteen-year-old who's suddenly gone silent, a six-year-old daughter whose heart is broken, an ex-husband whose younger girlfriend is expecting their baby and two best friends who think she's somehow qualified to help them open a fitness spa for women. But if Maddie is a tad on edge with all that on her plate, it's nothing compared to the chaos that ensues when she discovers that her son's baseball coach has feelings for her and the whole town disapproves. Maddie's faced a lot of challenges lately with strength and resolve, but Cal Maddox may turn out to be more than she can handle. Then again, he could just be the one man in all of South Carolina who can help her find serenity.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2014,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0778316289",
+    "isbn_13": "9780778316282",
+    "canonical_url": "http://books.google.com/books?id=YlqxBgAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=YlqxBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "r1uxBgAAQBAJ",
+    "title": "A Slice of Heaven",
+    "authors": [
+      "Sherryl Woods"
+    ],
+    "description": "Emotions run high when the Sweet Magnolias try to reunite a couple who was meant to be together in this classic from #1 New York Times bestselling author Sherryl Woods When an eating disorder threatens the life of chef Dana Sue Sullivan's teenage daughter, she has no choice but to bring Annie's cheating dad back to Serenity, South Carolina. She tells herself and her friends it's all about Annie, but the sad truth is she has a boatload of unresolved feelings of her own for Ronnie Sullivan. From the moment Ronnie hits town, there's no question about his intentions. He's there for his daughter, to be sure, but he wants Dana Sue back, and every move he makes is designed to prove he's a changed man. The one thing that's never changed, though, are the sparks that fly whenever the two of them are in the same room. Dana Sue can deny all she wants that Ronnie's the only man for her, but not a single person in town is buying it. No matter the circumstances, Ronnie's return is a sweet recipe for a new beginning.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2015,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0778318427",
+    "isbn_13": "9780778318422",
+    "canonical_url": "http://books.google.com/books?id=r1uxBgAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=r1uxBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "QES7mCcS4EwC",
+    "title": "Above and Beyond",
+    "authors": [
+      "Sandra Brown"
+    ],
+    "description": "Trevor's love for Kyla--the widow of his best friend--is complicated by a secret that threatens to destroy their fragile relationship",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 1986,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1551662914",
+    "isbn_13": "9781551662916",
+    "canonical_url": "http://books.google.com/books?id=QES7mCcS4EwC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=QES7mCcS4EwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "n4GmAwAAQBAJ",
+    "title": "Sometimes It Lasts",
+    "authors": [
+      "Abbi Glines"
+    ],
+    "description": "Enduring a long-distance relationship with the beautiful but hot-tempered Eva after landing a baseball scholarship, Cage resolves to prove his worth when he learns that Eva has been consoling herself in the arms of another man.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2014,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1481406701",
+    "isbn_13": "9781481406703",
+    "canonical_url": "http://books.google.com/books?id=n4GmAwAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=n4GmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "UBQgCgAAQBAJ",
+    "title": "Sierra's Homecoming",
+    "authors": [
+      "Linda Lael Miller",
+      "B. J. Daniels"
+    ],
+    "description": "After Sierra McKettrick moves to her family's ancestral ranch, Travis Reid, the Triple M's ranch hand, proves to be an unwanted temptation, and Devlin Barrows secret past may threaten not only his relationship with Rory, but also their lives.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2015,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0373010273",
+    "isbn_13": "9780373010271",
+    "canonical_url": "http://books.google.com/books?id=UBQgCgAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=UBQgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "AGuA58sHm-kC",
+    "title": "Toxic Bachelors",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "description": "Three daunting bachelors embark on a journey to the Mediterranean where they face women who challenge their deepest relationship phobias, sparking big changes in the once-carefree trio that just might put an end to their carousing days.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2005,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0385338279",
+    "isbn_13": "9780385338271",
+    "canonical_url": "http://books.google.com/books?id=AGuA58sHm-kC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=AGuA58sHm-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "X2hjAwAAQBAJ",
+    "title": "One More Chance",
+    "authors": [
+      "Abbi Glines"
+    ],
+    "description": "\"A new adult novel about Grant and Harlow in the Rosemary Beach series\"--",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2014,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1476756570",
+    "isbn_13": "9781476756578",
+    "canonical_url": "http://books.google.com/books?id=X2hjAwAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=X2hjAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "3T_6_VUzlRMC",
+    "title": "September",
+    "authors": [
+      "Rosamunde Pilcher"
+    ],
+    "description": "\" ... A story of homecomings and heartbreaks, friendships, betrayls, forgiveness, and love.\"--Publisher's website.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 1991,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0312924801",
+    "isbn_13": "9780312924805",
+    "canonical_url": "http://books.google.com/books?id=3T_6_VUzlRMC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=3T_6_VUzlRMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "0VqxBgAAQBAJ",
+    "title": "Dogwood Hill",
+    "authors": [
+      "Sherryl Woods"
+    ],
+    "description": "When former pro football quarterback Aidan Mitchell comes to Chesapeake Shore to coach the high school team, Liz March, who has sworn off men, finds herself falling for him until a devastating secret from his past threatens to destroy everything.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2014,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0778317323",
+    "isbn_13": "9780778317326",
+    "canonical_url": "http://books.google.com/books?id=0VqxBgAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=0VqxBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "2yDOBgAAQBAJ",
+    "title": "Promise Canyon",
+    "authors": [
+      "Robyn Carr"
+    ],
+    "description": "Clay Tahoma, Virgin River's new veterinary assistant, is welcomed by everyone in town except Lilly Yazhi, who believes that his down-to-earth attitude and rugged sex appeal is an act to charm wealthy women like his ex-wife.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2015,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "0778317420",
+    "isbn_13": "9780778317425",
+    "canonical_url": "http://books.google.com/books?id=2yDOBgAAQBAJ&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=2yDOBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  },
+  {
+    "source": "google",
+    "source_id": "MbbkFOnP7OkC",
+    "title": "A Holiday of Love",
+    "authors": [
+      "Jude Deveraux",
+      "Arnette Lamb",
+      "Jill Barnett",
+      "Judith McNaught"
+    ],
+    "description": "In New York City in the late 1800s, a beautiful but clumsy angel turns a lonely man's life around.... In medieval Scotland, the intrigues of a Christmas Mass imperil two Highland lovers....In Regency London, a world-weary lord receives an outrageous proposal....And in modern-day Colorado, a clever twelve-year-old plays matchmaker for his bighearted but impractical mother.",
+    "categories": [
+      "romance",
+      "Fiction"
+    ],
+    "published_year": 2005,
+    "average_rating": null,
+    "ratings_count": null,
+    "edition_count": null,
+    "isbn_10": "1416517219",
+    "isbn_13": "9781416517214",
+    "canonical_url": "http://books.google.com/books?id=MbbkFOnP7OkC&dq=subject:romance&hl=&as_pt=BOOKS&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=MbbkFOnP7OkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "popularity_score": 0.0
+  }
+]
